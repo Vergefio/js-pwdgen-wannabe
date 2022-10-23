@@ -1,0 +1,13 @@
+.eb-background-img {
+  height: 100vh;
+  color: white;
+}
+
+.rounded-pill {
+  background-color: rgba(1, 0, 0, 0.852);
+}
+
+#accesso-effettuato {
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+}
